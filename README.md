@@ -1,8 +1,6 @@
 # E-Commerce Sales & Profitability Analysis
 ### MySQL → Python → Power BI &nbsp;|&nbsp; 9,994 Orders &nbsp;|&nbsp; $769K Revenue &nbsp;|&nbsp; 2014–2017
 
-![Dashboard — Profit View](dashboard/dashboard_profit_view.png)
-
 ---
 
 ## Business Problem
